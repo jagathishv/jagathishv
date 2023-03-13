@@ -7,7 +7,11 @@
 
 - 🔭 I’m currently working on [Feeding kurtis](https://feedingkurtis.netlify.app)
 
+- 👨‍💻 All of my projects are available at [https://jagathishportfolio.netlify.app](https://jagathishportfolio.netlify.app)
+
 - 📫 How to reach me **jagathishveerappan@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1ZDhvaw9HohY-VePn6ZaE1OSSxPuagS2C/view?usp=sharing](https://drive.google.com/file/d/1ZDhvaw9HohY-VePn6ZaE1OSSxPuagS2C/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -22,4 +26,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jagathishv&show_icons=true&locale=en" alt="jagathishv" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jagathishv&" alt="jagathishv" /></p>
+
 
